@@ -47,7 +47,7 @@ Tenho especial interesse em oportunidades relacionadas a **Suporte Técnico, Inf
 ## 📫 Contato
 
 📧 E-mail: [ardigoevelyn@gmail.com](mailto\:ardigoevelyn@gmail.com)
-💼 LinkedIn: [Meu LinkedIn](www.linkedin.com/in/evelyn-ardigó-698b32437)
+💼 LinkedIn: [Meu LinkedIn](https://www.linkedin.com/in/evelynardigo)
 
 ---
 
