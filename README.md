@@ -31,10 +31,10 @@ Alguns dos meus primeiros projetos desenvolvidos durante meus estudos de Python:
 
 | Projeto                                                     | Descrição                                                                    |
 | ----------------------------------------------------------- | ---------------------------------------------------------------------------- |
-| 🏦 [Análise de Empréstimo Bancário](SEU-LINK-AQUI)          | Simulação simples de aprovação de financiamento utilizando regras e cálculos |
-| 💳 [Sistema de Preços e Formas de Pagamento](SEU-LINK-AQUI) | Cálculo de preços, descontos, parcelamentos e juros                          |
-| ⚖️ [Calculadora de IMC](SEU-LINK-AQUI)                      | Cálculo e classificação de IMC                                               |
-| 🎖️ [Simulador de Alistamento Militar](SEU-LINK-AQUI)       | Exercício de lógica utilizando condicionais e `datetime`                     |
+| 🏦 [Análise de Empréstimo Bancário](https://github.com/evelynardigo/python-analise-emprestimo)          | Simulação simples de aprovação de financiamento utilizando regras e cálculos |
+| 💳 [Sistema de Preços e Formas de Pagamento](https://github.com/evelynardigo/python-formas-pagamento) | Cálculo de preços, descontos, parcelamentos e juros                          |
+| ⚖️ [Calculadora de IMC](https://github.com/evelynardigo/python-calculadora-imc)                      | Cálculo e classificação de IMC                                               |
+| 🎖️ [Simulador de Alistamento Militar](https://github.com/evelynardigo/python-alistamento-militar)       | Exercício de lógica utilizando condicionais e `datetime`                     |
 
 > Estes projetos representam meus primeiros passos com Python e fazem parte da minha evolução como estudante de Ciência da Computação.
 
