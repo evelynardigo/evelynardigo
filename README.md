@@ -1,4 +1,4 @@
-# Olá! Eu sou a Evelyn 👋
+# Olá! Sou a Evelyn!
 
 🎓 Estudante de **Ciência da Computação na FIAP**, construindo minha trajetória na área de Tecnologia da Informação.
 
